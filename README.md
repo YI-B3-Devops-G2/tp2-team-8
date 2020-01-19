@@ -13,6 +13,7 @@
 
 - Docker & Docker Compose
 - Powershell
+- Node JS
 
 ## Comment démarrer le projet
 
