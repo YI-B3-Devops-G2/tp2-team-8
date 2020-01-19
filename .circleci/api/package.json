@@ -2,7 +2,7 @@
   "name": "tp_docker",
   "version": "1.0.0",
   "main": "server.js",
-  "author": "GUMBAU Elric | elric.gumbau@ynov.com",
+  "author": "SCANTAMBURLO Gianni | gianni.scantamburlo@ynov.com",
   "license": "MIT",
   "scripts": {
     "start": "node server.js"
