@@ -21,7 +21,7 @@ services:
       -  network-db
 
   docker-nodejs:
-    image: xdayonline/team8-api
+    image: elricgumbau/team4-api
     container_name: docker-tp-nodejs
     environment:
       - NODE_ENV=production
